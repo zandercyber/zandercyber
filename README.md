@@ -6,7 +6,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 <ul>
   <li><b>Cryptography</b></li>
-  <li><a href="https://github.com/joshmadakor1/Algorithms-Practice">Cyber Chase</a></li>
+  <li><a href="https://github.com/zandercyber/CyberChaseCryptography">Cyber Chase</a></li>
 </ul>
 
 <h2>📝 Certifications</h2>
