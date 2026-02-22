@@ -4,9 +4,15 @@
 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
+
+<h3>🔐 Cryptography</h3>
 <ul>
-  <li><b>Cryptography</b></li>
-  <li><a href="https://github.com/zandercyber/CyberChaseCryptography">Cyber Chase</a></li>
+  <li><a href="https://github.com/zandercyber/CyberChaseCryptography"><b>Cipher Chase</b></a> </li>
+</ul>
+
+<h3>💻 Programming</h3>
+<ul>
+  <li><b>Study Typer — WPM Tracker</b> (In Progress)</li>
 </ul>
 
 <h2>📝 Certifications</h2>
