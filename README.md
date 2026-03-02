@@ -7,7 +7,7 @@
 
 <h3>🔐 Cryptography</h3>
 <ul>
-  <li><a href="https://github.com/zandercyber/CyberChaseCryptography"><b>Cipher Chase</b></a> </li>
+  <li><a href="https://github.com/zandercyber/CyberChaseCryptography"><b>Cipher Chase</b></a></li>
 </ul>
 
 <h3>💻 Programming</h3>
@@ -20,6 +20,11 @@
   <li><b>Security+ (In Progress)</b></li>
 </ul>
 
+<h2>🤝 Meetings Led in Cyber Club</h2>
+<ul>
+  <li><a href="https://docs.google.com/presentation/d/1Efw-6N_6sF8mZ-w84tiEyuUxhBEt_PPoUqUynav5nec/edit?usp=sharing"><b>DFIR</b></a></li>
+</ul>
+
 <h2>📺 YouTube Videos</h2>
 <ul>
   <li><a href="https://youtu.be/tibO8JCpPSc?si=b7W8_2q3bt2sl4eN">Phishing and Vishing Campaign</a></li>
@@ -27,10 +32,10 @@
 
 <h2>🤳 Connect with me</h2>
 <a href="https://linkedin.com/in/zander-winslow">
-  <img 
-    align="left" 
-    alt="Zander Winslow | LinkedIn" 
-    width="22px" 
+  <img
+    align="left"
+    alt="Zander Winslow | LinkedIn"
+    width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   />
 </a>
