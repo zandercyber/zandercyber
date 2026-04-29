@@ -23,7 +23,7 @@
 <h2>🤝 Meetings Led in Cyber Club</h2>
 <ul>
   <li><a href="https://docs.google.com/presentation/d/1Efw-6N_6sF8mZ-w84tiEyuUxhBEt_PPoUqUynav5nec/edit?usp=sharing"><b>DFIR</b></a></li>
-  <li><a href="https://docs.google.com/presentation/d/1MBlCoVKl5AuSfZCAN2rTWKzas_28uxkwjAWJkIQ1FmA/edit?usp=sharing"</b></a></li>
+  <li><a href="https://docs.google.com/presentation/d/1MBlCoVKl5AuSfZCAN2rTWKzas_28uxkwjAWJkIQ1FmA/edit?usp=sharing"</b>Defensive Prompt Engineering</a></li>
   
 </ul>
 
