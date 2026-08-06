@@ -17,7 +17,8 @@
 
 <h2>📝 Certifications</h2>
 <ul>
-  <li><b>Security+ (In Progress)</b></li>
+  <li><b>Security+</b></li>
+  <li><b>Google AI Essentials (IN PROGRESS)</b></li>
 </ul>
 
 <h2>🤝 Meetings Led in Cyber Club</h2>
