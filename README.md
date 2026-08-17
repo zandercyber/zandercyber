@@ -26,8 +26,9 @@
 
 <h2>📝 Certifications</h2>
 <ul>
-  <li><b>Security+</b></li>
-  <li><b>Google AI Essentials (IN PROGRESS)</b></li>
+  <li><b>CompTIA Security+</b></li>
+  <li><b>Google AI Essentials</b></li>
+  <li><b>CompTIA CySa+</b></li>
 </ul>
 
 <h2>🤝 Meetings Led in Cyber Club</h2>
@@ -56,7 +57,7 @@
 
 <h2>More</h2>
 <ul>
-  <li>🔭 I’m currently working on: Security+</li>
-  <li>🌱 I’m currently learning: Network Security</li>
+  <li>🔭 I’m currently working on: Agentic Threat Intel Project</li>
+  <li>🌱 I’m currently learning: Agentic AI</li>
   <li>📫 How to reach me: LinkedIn</li>
 </ul>
