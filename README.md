@@ -12,7 +12,8 @@
 
 <h3>💻 Programming</h3>
 <ul>
-  <li><b>Study Typer — WPM Tracker</b> (In Progress)</li>
+  <li><a href="[https://github.com/zandercyber/SecurityStudy]"><b>Security+ Study</b></a></li>
+  <li><a href="[https://github.com/winslozp/project201]"><b>StudyTyper</b></a></li>
 </ul>
 
 <h2>📝 Certifications</h2>
