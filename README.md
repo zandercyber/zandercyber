@@ -28,7 +28,7 @@
 <ul>
   <li><b>CompTIA Security+</b></li>
   <li><b>Google AI Essentials</b></li>
-  <li><b>CompTIA CySa+</b></li>
+  <li><b>CompTIA CySa+ (In Progress) </b></li>
 </ul>
 
 <h2>🤝 Meetings Led in Cyber Club</h2>
