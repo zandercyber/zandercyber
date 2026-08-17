@@ -14,6 +14,14 @@
 <ul>
   <li><a href="https://github.com/zandercyber/SecurityStudy"><b>Security+ Study</b></a></li>
   <li><a href="https://github.com/winslozp/project201"><b>StudyTyper</b></a></li>
+  <li><a href="https://github.com/zandercyber/defense-prompt-engineering"><b>Defensive AI Prompt Injection</b></a></li>
+  
+</ul>
+
+<h3>🤖 Agentic</h3>
+<ul>
+  <li><a href="https://github.com/TJCoppess/Multi-Agent-Pen-Testing-Tool"><b>Multi Agentic Pen Tester</b></a></li>
+   <li><b>Agentic Threat Intel Feed via Slack (In Progress)</b></li>
 </ul>
 
 <h2>📝 Certifications</h2>
