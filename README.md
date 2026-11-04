@@ -23,7 +23,7 @@
   <li><a href="https://github.com/TJCoppess/Multi-Agent-Pen-Testing-Tool"><b>Multi Agentic Pen Tester</b></a></li>
    <li><b>Agentic Threat Intel Feed via Slack (In Progress)</b></li>
   <li><a href="https://github.com/zandercyber/CyberClubAgentic"><b>Agentic Decoder</b></a></li>
-  <li><a href="https://github.com/zandercyber/AgenticHomeLab"><b>Agentic Home Lab</b></a>/li>
+  <li><a href="https://github.com/zandercyber/AgenticHomeLab"><b>Agentic Home Lab</b></a></li>
 </ul>
 
 <h2>📝 Certifications</h2>
